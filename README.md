@@ -1,2 +1,2 @@
 # Database-Schema-Project
-A Database EER Schema Project of Trendyol, Amazon, Hepsiburada with a new combined design of them and SQL code for the combined EER Schema.
+A Database EER Schema Project of Trendyol, Amazon and Hepsiburada with data requirments for all the schemas. It also has a new combined EER version of the three schemas and SQL codes for this new version (for creating tables, for populating them and for triggers). To create tables, iterative relational mapping steps are used and these steps and final tables are included in the files.
